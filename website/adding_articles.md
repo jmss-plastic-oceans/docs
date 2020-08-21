@@ -9,6 +9,7 @@
     - Neither the title nor the subtitle can have commas. Please make sure there are **no commas** or the website will not work (we're working on fixing this).
 6. Find an image on the internet for your thumbnail (**make sure we have rights to use it!**). Here are some good sites for free (no attribution) images:
     - [Unsplash](https://unsplash.com)
+    - Please note: we will directly serve these images to the user. We **can't have** a gigantic 4k image for a small thumbnail. So, please take care not to get the most high-quality images there are because all it will do is slow down the site.
 7. Paste the image **direct link** into the box for it in Column D (must end in .png or .jpeg - NOT a Google Drive link)
 8. Finish off by ticking the 'Publish' button when you want to publish.
 
